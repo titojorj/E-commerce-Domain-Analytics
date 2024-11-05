@@ -1,11 +1,17 @@
-# E-commerce-Domain-Analytics
+# Optimizing the Business
 
-## Overview
-This project explores E-commerce analytics, covering trends, customer insights, business optimization, and supply chain management.
+This section focuses on strategies and analyses to enhance business performance through data insights and conversion optimization.
 
-## Table of Contents
-- [Introduction to E-Commerce](#introduction-to-e-commerce)
-- [Understanding the Customer](#understanding-the-customer)
-- [Optimizing the Business](#optimizing-the-business)
-- [Supply Chain and Data Management](#supply-chain-and-data-management)
-- [Final Presentation](#final-presentation)
+## Contents
+
+### 1. E-commerce EDA with Python
+- **Python File**: [E-commerce Exploratory Data Analysis](./ecommerce-eda.ipynb)
+- This EDA examines a provided E-commerce dataset to identify key insights on customer behavior, sales trends, and product performance using Python libraries such as pandas, matplotlib, and seaborn.
+
+### 2. Case Study: E-commerce Conversion Strategies
+- **PDF**: [E-commerce Conversion Strategies Case Study](./ecommerce-conversion-strategies-case-study.pdf)
+- This case study explores various strategies to improve conversion rates in E-commerce, including best practices and tactical approaches for boosting customer engagement and reducing bounce rates.
+
+## Notes
+Key methods and strategies for optimizing customer engagement and sales conversions.
+
