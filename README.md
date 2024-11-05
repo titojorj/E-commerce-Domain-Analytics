@@ -5,7 +5,7 @@ This section focuses on strategies and analyses to enhance business performance 
 ## Contents
 
 ### 1. E-commerce EDA with Python
-- **Python File**: [E-commerce Exploratory Data Analysis](./ecommerce-eda.ipynb)
+- **Python File**: [E-commerce Exploratory Data Analysis](./E_commerce_EDA(Shopping).ipynb)
 - This EDA examines a provided E-commerce dataset to identify key insights on customer behavior, sales trends, and product performance using Python libraries such as pandas, matplotlib, and seaborn.
 
 ### 2. Case Study: E-commerce Conversion Strategies
