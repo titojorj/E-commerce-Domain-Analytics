@@ -4,7 +4,7 @@
 ## Contents
 
 ### 1. Case Study: Physical vs. Online Stores
-- **PDF**: [Physical vs. Online Stores Case Study](./Comparative_Case_Study-(Physical vs Online).pdf)
+- **PDF**: [Physical vs. Online Stores Case Study](./physical-vs-online-case-study.pdf)
 - This case study covers the fundamentals of E-commerce by comparing physical and online store models, including key trends, growth factors, and market challenges.
 
 ### 2. Tableau Dashboards
