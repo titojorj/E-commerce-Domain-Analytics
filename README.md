@@ -20,7 +20,7 @@ This section focuses on understanding customer behaviors and insights through da
 ### Contents
 
 #### 1. Subscription Model Case Study
-- **PDF**: [Adobe Creative Cloud Subscription Model Case Study](./adobe-creative-cloud-case-study.pdf)
+- **PDF**: [Adobe Creative Cloud Subscription Model Case Study](./Adobe_creative_cloud_subjective_research_case_study.pdf)
 - This document explores Adobe's subscription-based model within the E-commerce sector, examining key factors contributing to customer retention, revenue generation, and challenges unique to subscription-based businesses.
 
 #### 2. E-commerce SQL Analysis
