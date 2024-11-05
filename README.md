@@ -20,7 +20,7 @@ This presentation consolidates all insights and findings from the E-commerce Dom
    - CRM analysis findings, including customer segmentation and RFM analysis.
 
 ## Presentation File
-- **PowerPoint**: [E-commerce Domain Analytics Presentation](./ecommerce-domain-analytics-presentation.pptx)
+- **PowerPoint**: [E-commerce Domain Analytics Presentation](./ecommerce-domain-analytics-presentation.pdf)
 
 ### Goal
 This presentation aims to encapsulate the project's key insights and deliver actionable findings for each area of the E-commerce analytics workflow.
