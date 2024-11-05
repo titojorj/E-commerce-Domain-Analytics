@@ -1,12 +1,16 @@
 
-## Introduction to E-Commerce
+# Introduction to E-Commerce
 
-### Contents
-- **Case Study**: [Physical vs. Online Stores](./Comparative_Case_Study-(Physical vs Online).pdf
-- **Tableau Dashboards**:
-  - [Demographics Analysis Dashboard](https://public.tableau.com/app/profile/george1171/viz/Salesperformancedashboard-1/DemographicAnalysis?publish=yes) 
+## Contents
+
+### 1. Case Study: Physical vs. Online Stores
+- **PDF**: [Physical vs. Online Stores Case Study](./Comparative_Case_Study-(Physical vs Online).pdf)
+- This case study covers the fundamentals of E-commerce by comparing physical and online store models, including key trends, growth factors, and market challenges.
+
+### 2. Tableau Dashboards
+ - [Demographics Analysis Dashboard](https://public.tableau.com/app/profile/george1171/viz/Salesperformancedashboard-1/DemographicAnalysis?publish=yes) 
   - [Sales Performance Dashboard](https://public.tableau.com/app/profile/george1171/viz/Salesperformancedashboard-1/SalesPerformanceoverview?publish=yes)
   - [Product Insights Dashboard](https://public.tableau.com/app/profile/george1171/viz/Salesperformancedashboard-1/ProductInsights?publish=yes)
 
-### Notes
+## Notes
 Key insights on E-commerce fundamentals and comparisons between online and physical stores.
