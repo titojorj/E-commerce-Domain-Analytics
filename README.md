@@ -24,5 +24,5 @@ This section focuses on understanding customer behaviors and insights through da
 - This document explores Adobe's subscription-based model within the E-commerce sector, examining key factors contributing to customer retention, revenue generation, and challenges unique to subscription-based businesses.
 
 #### 2. E-commerce SQL Analysis
-- **SQL File**: [SQL Analysis on E-commerce Data](./ecommerce-sql-analysis.sql)
+- **SQL File**: [SQL Analysis on E-commerce Data](./E-commerce_SQL_analysis.pdf)
 - This SQL analysis investigates sales, product, and customer data to calculate key performance indicators (KPIs) and extract actionable insights. The analysis was conducted using Google BigQuery and covers areas like customer segmentation, sales performance, and product trends.
